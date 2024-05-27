@@ -1,0 +1,144 @@
+﻿  menu.cpp
+C:\Users\OMEN\source\repos\super mario\super mario\menu.cpp(19,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\menu.cpp(31,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Source.cpp
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(97,37): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(217,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(313,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(342,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(484,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(484,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(674,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(676,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(678,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(680,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(682,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(776,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(778,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(780,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(782,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(784,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(826,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(829,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(831,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(833,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(835,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(845,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(847,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(849,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(851,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(853,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1058,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1058,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1060,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1060,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1148,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1180,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1185,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1256,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1256,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1316,92): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1316,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1324,98): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1324,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1425,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1467,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1480,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1524,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1544,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1699,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1722,103): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1722,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1742,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1750,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\OMEN\source\repos\super mario\super mario\Source.cpp(1804,59): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  super mario.vcxproj -> C:\Users\OMEN\source\repos\super mario\Debug\super mario.exe
